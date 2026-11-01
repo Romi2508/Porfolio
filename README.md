@@ -85,7 +85,7 @@ A contact form allowing visitors to enter their name, email, and message with cl
 | CSS3 | Styling & responsive design |
 | Git | Version control |
 | GitHub | Source code hosting |
-| Vercel | Deployment |
+
 
 ---
 
